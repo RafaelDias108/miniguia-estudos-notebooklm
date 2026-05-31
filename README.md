@@ -25,7 +25,6 @@ Para alimentar o NotebookLM, selecionei fontes que abrangem desde a base teóric
 ### 1. Tentativa Inicial (Prompt Genérico)
 * **Prompt:** "Como organizar minhas finanças?"
 * **Resultado:** Respostas superficiais e genéricas.
-* **Dificuldade:** A IA não sabia o meu perfil de risco ou nível de conhecimento.
 
 ### 2. Refinamento (Prompt Estruturado - "O Pulo do Gato")
 * **Prompt:** "Com base nos documentos carregados, crie um plano de ação para alguém que deseja sair das dívidas e começar a investir. Considere a Regra 50-30-20 como base. Organize em passos semanais."
